@@ -1,2 +1,2 @@
-#!/bin/bash a script that prints the absolute path name of the current working directorya script that prints the absolute path name of the current working dir
-the  script that prints the absolute path name of the current working directory you can use < pwd > command for displaying the path of the current working di
+#!/bin/bash
+you can use < pwd > command for displaying the path of the current working directory
