@@ -1,1 +1,3 @@
-use $pw 
+#!/bin/bash 
+you can use < pwd > command for displaying the path of the current working directory 
+ 
